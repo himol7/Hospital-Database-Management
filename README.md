@@ -1,4 +1,4 @@
-# Hospital-Database-Management
+# Hospital-Search-Management-System
 
 In this Project, we have tried to manage a database containing data about all the hospitals and clinics in a city, in a particular area, treatments offered at the hospital, all doctors in a city, in a particular area, their specializations, experience, ratings, affiliations with various hospitals, availability of doctors at a hospital, book appointments.<br/>
 
